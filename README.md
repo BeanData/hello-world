@@ -2,5 +2,5 @@
 
 Hello everyone! 
 I am Star, this is the first project I created. 
-I am a new coder and I want to be a people analyst within one year. 
-I like a boy who worked at Mountain View. 
+I am a coding beginer and I want to get people analytics job within one year. 
+Right now, I am an HR associate at a Startup company, which is stupid company without any development.
